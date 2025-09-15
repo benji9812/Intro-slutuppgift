@@ -1,0 +1,29 @@
+Vad visste du om mjukvaruutveckling innan kursen – och vad vet du nu?
+
+Innan denna kursen hade jag egentligen minimal kunskap av vad mjukvaruutveckling var. Visste typ att det var utveckling av mjukvara och inte hårdvara! Jag är fortfarande väldigt ny till detta,
+men har nu fått ett hum av vad det är. Vad dem olika IDE är och hur dem ser ut, vad olika språk används till, vad saker och ting gör, hur man gör dem. Vad molndet är, vad github är och hur man kan använda det.
+Jag har lärt mig om databaser och informationsystem. Jag tycker det är roligt och intressant på samma gång, och jag uppskattar att det går fort! Fastän att det kan bli lite mycket i huvudet så gillas det.
+
+Vad betyder “DevOps” för dig? Hur skulle du förklara det till en kompis?
+
+DevOps är för mig ett arbbetssätt där vi utvecklare samarbetar tillsammans med ett drifteam för att leverera en slutgiltlig produkt (kod) med hjälp av automatiserade verktyg. Hade jag förklarat detta för en
+vän som inte har en aning om IT världen hade jag förklarat det som följande: Se det som att öppna en restaurang, utvecklarna är kockarna som skapar recepten (koden), Operations (Ops) är personalen och
+logistiken som ser till att köket är som det ska, maten levereras och gästerna är nöjda. DevOps tillsammans är då ett samarbete mellan kockarna och personalen som utgår från att dem tillsammans planerar
+från start och har tillgång till ett state of the art kök som automatiskt lagar maten, smakar på den och serverar den.
+
+Hur tänker du kring molnet? Vad känns spännande – och vad känns svårt?
+
+Mina tankar om molnet är att det är typ allt, det vill säga att om jag lär mig molnet kan jag göra väldigt mycket, med väldigt mycket, överallt. Det är det som är mest spännande för mig!
+Jag har inte riktigt kommit fram till något som känns svårt ännu, med tanke på att jag är såpas ny till branschen överhuvudtaget så skulle man kunna säga att allt är svårt, men det beror på vad man gör det till
+och vad man vill. Jag är här för att lära mig och det skall jag göra, finns det saker som jag tycker är svårt blir det bara en större anledning för mig att faktiskt lära mig det, trust the process som man säger.
+
+Vad innebär det att vara en systemutvecklare i ett team?
+
+Att vara systemutvecklare är att vara en del av ett team som designar, skriver, testar och underhåller en/flera mjukvara/mjukvaror tillsammans. Det är ofast gjort på det viset att alla har ansvar för varsina,
+specifika delar av projektet, medans man fortfarande samarbetar för att uppnnå gruppens gemensamma mål med respektive projekt!
+
+Vad har varit mest intressant under kursens tre veckor?
+
+Med tanke på att jag inte hade någon insikt över huvudtaget innan detta så är allting väldigt intressant för mig, att få en inblick hur allting går till bakom dem stängda dörrarna så att säga! Men om jag ska
+peka på något specifikt är det nog användning av AI som ett verktyg, tex i samband med GitHub Repos och inte bara fråga nått och få ett svar utan också lära sig vad svaret innebär och hur man kan implementera
+det man lär sig av AI i sitt arbete, och även såklart att implementera själva AIn i sitt arbete. 
