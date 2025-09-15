@@ -1,0 +1,34 @@
+Vad är skillnaden mellan IaaS, PaaS och SaaS?
+
+IaaS eller (Infrastructure as a Service) är enligt mmin uppfattning att du hyr en "plats" i monlnet där du själv står för att skapa din platform och uprätthålla din egen mjukvara samt konfigurering.
+
+PaaS eller (Platform as a Service) är enligt min uppfattning att du hyr en möblerad "plast" i molnet  därav behöver du ej tänka på att skapa din egen platform utan kan istället direkt skapa apllikationer på den redan 
+existerande platformen.
+
+SaaS eller (Software as a Service) är enligt min uppfattning en klar "plats", redo att användas direkt, du behöver själv inte tänka på något av det jag skrev i IaaS och PaaS utan det görs av leverantören. 
+En klar produkt redo att användas när du vill, vart du vill.
+
+
+Vad gör Git och vad är GitHub?
+
+Git är ett system som hanterar versioner av kod så att du kan spara ändringar, arbeta i olika grenar och samarbeta utan att skriva över varandra. GitHub är en molnbaserad tjänst som lagrar Git-repon online och gör det 
+enkelt att dela, samarbeta och automatisera projekt.
+
+
+Vad är ett informationssystem?
+
+Ett informationssystem är typ som ett system där man samlar och använder information för att göra saker enklare. Det kan vara datorer, program och människor som jobbar ihop för att lagra, hitta och använda information, 
+till exempel när man beställer något på en hemsida eller när en skola har system för elever och betyg.
+
+
+Vad är CIA-triaden?
+
+CIA-triaden är ett sätt att förklara vad som är viktigt när man skyddar information. Den består av tre delar: Konfidentialitet, alltså att bara rätt personer får se infon (lite som att ha ett lås på dagboken); 
+Integritet, att infon är korrekt och inte går att ändra hur som helst (som att ingen får sudda och skriva om dina anteckningar); 
+och Tillgänglighet, att man faktiskt kommer åt infon när man behöver den (som att alltid kunna öppna dagboken när du vill läsa i den). Det är liksom grunden för hur man tänker kring datasäkerhet.
+
+
+Vad är Continuous Integration (CI)?
+
+Continuous Integration, eller CI, är ett arbetssätt där utvecklare ofta laddar upp (integrerar) sin kod till en gemensam kodbas. Varje gång ny kod läggs till körs automatiska tester och byggen för att direkt se om något 
+gått sönder. På så sätt hittar man fel tidigt och håller projektet stabilt medan flera personer jobbar på det samtidigt. Ett exempel på en CI (Continuous Integration) är GitHub Actions.
